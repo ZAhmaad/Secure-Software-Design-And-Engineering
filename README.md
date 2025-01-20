@@ -93,9 +93,7 @@ If you have any questions or need assistance, feel free to reach out:
 I am available during the following hours to discuss course-related topics or other queries:
 
 - 🕒 **Office Hours**:  
-  - Monday: 2:00 PM – 4:00 PM  
-  - Wednesday: 10:00 AM – 12:00 PM  
-  - Friday: 3:00 PM – 5:00 PM
+  - Will share soon
 
 - 📍 **Office Location**:  
   Room G14, FCSE lobby, GIKI
