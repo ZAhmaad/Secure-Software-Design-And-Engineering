@@ -5,7 +5,7 @@ Welcome to the Secure Software Design and Engineering course repository! This re
 ## How to Use This Repository
 - Clone the repository using:
   ```bash
-  git clone https://github.com/username/secure-software-engineering-course.git
+  git clone https://github.com/ZAhmaad/Secure-Software-Design-And-Engineering
 
 ## Table of Contents
 - [Introduction](#introduction)
